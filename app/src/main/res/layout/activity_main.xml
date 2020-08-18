@@ -115,7 +115,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:background="@drawable/buttonback"
-        android:text="Don´t have an account? sign up"
+        android:text="Don´t have an account?_sign up"
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
